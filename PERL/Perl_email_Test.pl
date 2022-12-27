@@ -1,0 +1,1 @@
+perl -ne'if(/[\w\.\-\_]+@([\w\-\_]+\.)+[A-Za-z]{2,4}/g){print "$&\n"}' email.txt | sort | uniq > delete_these.txt

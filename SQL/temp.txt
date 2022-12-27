@@ -1,0 +1,8 @@
+
+Problem Details: Customer Provided Requested by Date : 11/21/2022
+System Type : Production
+System Name(s) : Production
+Cluster Licenses Needed : Cluster 15,  HIPAA Cluster 2
+Release requested : R24.0/RI
+License Management Configuration : UUID
+Allocation Instructions : Please allocate licenses in the same methodAS CL16 HIPPA2
